@@ -1,11 +1,6 @@
 # Hi there 👋
 
-<div align="center">
 
-![Views](https://img.shields.io/badge/Views-1.5k-blue)
-![Profile Size](https://img.shields.io/badge/Profile_Size-25_KB-green)
-
-</div>
 
 
 
