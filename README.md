@@ -31,42 +31,7 @@
 
 </div>
 
-## 🏆 Achievement Cards
 
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="/api/placeholder/100/100" alt="MultiLanguage">
-<br>
-<b>MultiLanguage</b>
-<br>
-Level 5
-</td>
-<td align="center">
-<img src="/api/placeholder/100/100" alt="Stars">
-<br>
-<b>Stars Earned</b>
-<br>
-250+
-</td>
-<td align="center">
-<img src="/api/placeholder/100/100" alt="Commits">
-<br>
-<b>Commits</b>
-<br>
-1000+
-</td>
-<td align="center">
-<img src="/api/placeholder/100/100" alt="PullRequests">
-<br>
-<b>Pull Requests</b>
-<br>
-50+
-</td>
-</tr>
-</table>
-</div>
 
 ## 📫 Connect With Me
 
