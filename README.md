@@ -7,15 +7,7 @@
 
 </div>
 
-## 📊 My GitHub Journey
 
-<div align="center">
-
-| Stats & Metrics | Languages & Tools |
-|----------------|-------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight) |
-
-</div>
 
 ## 🚀 Quick Facts
 
