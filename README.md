@@ -28,22 +28,6 @@
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Skills))
-    Languages
-      JavaScript
-      Python
-      C++
-    Web Development
-      Frontend
-      Backend
-      DevOps
-    Tools
-      Git
-      Docker
-      Linux
-```
 
 </div>
 
@@ -92,18 +76,11 @@ Level 5
 
 ## 📈 Contribution Graph
 
-```text
-Contributions in the last year
 
-Jan  ▮▮▮▮▮▮░░░░
-Feb  ▮▮▮▮▮▮▮░░░
-Mar  ▮▮▮▮▮▮▮▮░░
-Apr  ▮▮▮▮▮▮▮▮▮░
-May  ▮▮▮▮▮▮▮▮▮▮
-```
+
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
 
 </div>
