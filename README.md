@@ -24,22 +24,13 @@
 - 💡 Interested in Web Development, System Design 
 - 🔧 Working on open-source projects
 
-## 🎯 Skills & Expertise
-
-<div align="center">
-
-
-</div>
-
-
-
 ## 📫 Connect With Me
 
 - 📧 Email: IT23165816@my.sllit.lk
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 - 💼 LinkedIn: https://www.linkedin.com/in/brian-samuel-952606228/
 
-## 📈 Contribution Graph
+
 
 
 
