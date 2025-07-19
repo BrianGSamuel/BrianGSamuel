@@ -3,7 +3,7 @@
 ## 🚀 Quick Facts
 
 - 👨‍💻 I'm Brian Samuel  
-- 🎓 Data Science student at SLIIT  
+- 🎓 software engineering student at SLIIT  
 - 💡 Interested in Web Development, System Design  
 - 🔧 Working on open-source projects  
 
