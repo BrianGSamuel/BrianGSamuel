@@ -4,15 +4,16 @@
 
 - 👨‍💻 I'm Brian Samuel  
 - 🎓 Software Engineering student at SLIIT  
-- 💡 Interested in Web Development, System Design  
+- 💡 Interested in Web Development, System Design
+- 🌐 I develop and host modern, responsive websites   
 - 🔧 Working on open-source projects  
 
 ## 👯‍♂️ Connect With Me
 
-- 📧 Email: IT23165816@my.sllit.lk  
+- 📧 Email: briansamuel1268@gmail.com
 - 🌟 LinkedIn: [Brian Samuel](https://www.linkedin.com/in/brian-samuel-952606228/)  
 
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"/>
